@@ -7,6 +7,7 @@ db.sqlite3
 media
 
 # Backup files # 
+desk.txt
 *.bak 
 
 # If you are using PyCharm # 
@@ -135,4 +136,4 @@ GitHub.sublime-settings
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
-desk.txt
+
