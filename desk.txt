@@ -1,0 +1,8 @@
+tutorial_url = https://www.youtube.com/watch?v=UqSJCVePEWU&list=PLOLrQ9Pn6caxY4Q1U9RjO1bulQp5NDYS_&index=1
+echo "# E-commerce-v1" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:Zekiyev/E-commerce-v1.git
+git push -u origin main
